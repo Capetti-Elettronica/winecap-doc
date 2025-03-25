@@ -2,10 +2,14 @@ title: Winecap Doc
 description: An online version of WineCap manuals
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
-aux_links:
-  Capetti Elettronica: https://www.capetti.it
+url: https://just-the-docs.github.io
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
