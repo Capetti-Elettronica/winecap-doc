@@ -1,6 +1,7 @@
 ---
 title: Measure Index
 nav_order: 1
+nav_enabled: false
 ---
 
 # Measure Index
