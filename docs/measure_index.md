@@ -76,6 +76,7 @@ nav_enabled: false
 | MAGN_Y_MEAS_TYPE  | Campo Magnetico Y | Magnetic Field Y | 65 | 0x41 | G | 0 | 0,001 |
 | MAGN_Z_MEAS_TYPE  | Campo Magnetico Z | Magnetic Field Z | 66 | 0x42 | G | 0 | 0,001 |
 | DAILY_TEMP_MEAS_TYPE | Temperatura Giornaliera | Daily Temperature | 67 | 0x43 | °C | 0 | 0,01|
+| POWER_MEAS_TYPE | Potenza | Power | 68 | 0x44 | kW | 0 | 1|
 | INDEX  | Indice | Index | 200 | 0xC8 | - | 0 | 1 |
 | - | - | - | - | - | - | - | - |
 | CUSTOM_CH  | Test | Test | 252 | 0xFC | - | 0 | 1 |
