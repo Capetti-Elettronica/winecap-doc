@@ -33,7 +33,7 @@ nav_enabled: false
 | RAD_SOLARE  | Radiazione Solare | Solar Radiation | 22 | 0x16 | W/m2 | 0 | 0,1 |
 | IA_MEAS_TYPE  | Corrente  | Current  | 23 | 0x17 | A | 0 | 1 |
 | IMPULSI  | Impulsi | Pulses | 24 | 0x18 | - | 0 | 1 |
-| INDEX_MPX8  | Indice MPX8 | MPX8 Index | 25 | 0x19 | - | 0 | 1 |
+| INDEX_IAQ  | Indice IAQ | IAQ Index | 25 | 0x19 | - | 0 | 1 |
 | NRG_E_REA_MEAS_TYPE  | Energia Elettrica Reattiva | Reactive Electric Energy | 26 | 0x1A | Kvarh | 0 | 1 |
 | HEATING_DEGREE_DAY  | Gradi Giorno | Degree Day | 27 | 0x1B | GG | 0 | 1 |
 | ACCELERATION  | Accelerazione | Acceleration | 28 | 0x1C | g | 0 | 0,1 |
