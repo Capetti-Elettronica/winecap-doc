@@ -33,7 +33,7 @@ nav_enabled: false
 | RAD_SOLARE  | Radiazione Solare | Solar Radiation | 22 | 0x16 | W/m2 | 0 | 0,1 |
 | IA_MEAS_TYPE  | Corrente  | Current  | 23 | 0x17 | A | 0 | 1 |
 | IMPULSI  | Impulsi | Pulses | 24 | 0x18 | - | 0 | 1 |
-| INDEX_IAQ  | Indice IAQ | IAQ Index | 25 | 0x19 | - | 0 | 1 |
+| IAQ_INDEX  | IAQ | IAQ | 25 | 0x19 | - | 0 | 0,1 |
 | NRG_E_REA_MEAS_TYPE  | Energia Elettrica Reattiva | Reactive Electric Energy | 26 | 0x1A | Kvarh | 0 | 1 |
 | HEATING_DEGREE_DAY  | Gradi Giorno | Degree Day | 27 | 0x1B | GG | 0 | 1 |
 | ACCELERATION  | Accelerazione | Acceleration | 28 | 0x1C | g | 0 | 0,1 |
@@ -76,7 +76,8 @@ nav_enabled: false
 | MAGN_Y_MEAS_TYPE  | Campo Magnetico Y | Magnetic Field Y | 65 | 0x41 | G | 0 | 0,001 |
 | MAGN_Z_MEAS_TYPE  | Campo Magnetico Z | Magnetic Field Z | 66 | 0x42 | G | 0 | 0,001 |
 | DAILY_TEMP_MEAS_TYPE | Temperatura Giornaliera | Daily Temperature | 67 | 0x43 | °C | 0 | 0,01|
-| POWER_MEAS_TYPE | Potenza | Power | 68 | 0x44 | kW | 0 | 1|
+| POWER_MEAS_TYPE | Potenza | Power | 68 | 0x44 | kW | 0 | 1 |
+| RELATIVE_IAQ_INDEX | Relative IAQ | Relative IAQ | 69 | 0x45 | - | 0 | 1 |
 | INDEX  | Indice | Index | 200 | 0xC8 | - | 0 | 1 |
 | - | - | - | - | - | - | - | - |
 | CUSTOM_CH  | Test | Test | 252 | 0xFC | - | 0 | 1 |
