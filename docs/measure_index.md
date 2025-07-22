@@ -35,7 +35,7 @@ nav_enabled: false
 | IMPULSI  | Impulsi | Pulses | 24 | 0x18 | - | 0 | 1 |
 | IAQ_INDEX  | IAQ | IAQ | 25 | 0x19 | - | 0 | 0,1 |
 | NRG_E_REA_MEAS_TYPE  | Energia Elettrica Reattiva | Reactive Electric Energy | 26 | 0x1A | Kvarh | 0 | 1 |
-| HEATING_DEGREE_DAY  | Gradi Giorno | Degree Day | 27 | 0x1B | GG | 0 | 1 |
+| HEATING_DEGREE_DAY  | Gradi Giorno | Degree Day | 27 | 0x1B | GG | 0 LuPo 32768 LoRa | 1 |
 | ACCELERATION  | Accelerazione | Acceleration | 28 | 0x1C | g | 0 | 0,1 |
 | NODES  | Nodi | Nodes | 29 | 0x1D | - | 0 | 1 |
 | PACKETS  | Pacchetti | Packets | 30 | 0x1E | - | 0 | 1 |
