@@ -6,7 +6,7 @@ nav_enabled: false
 
 # Measure Index
 
-| FW Define | Descsription ITA | Description ENG | DEC | HEX | Unit | Offset | Gain |
+| FW Define | Description ITA | Description ENG | DEC | HEX | Unit | Offset | Gain |
 | - | - | - | - | - | - | - | - |
 | NO_MEAS_TYPE  | - | - | 0 | 0x00 | - | 0 | 1 |
 | TEMP_MEAS_TYPE  | Temperatura | Temperature | 1 | 0x01 | °C | 0 | 0,01 |
