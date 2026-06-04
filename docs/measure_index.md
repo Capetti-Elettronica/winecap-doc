@@ -78,6 +78,9 @@ nav_enabled: false
 | DAILY_TEMP_MEAS_TYPE | Temperatura Giornaliera | Daily Temperature | 67 | 0x43 | °C | 0 | 0,01|
 | POWER_MEAS_TYPE | Potenza | Power | 68 | 0x44 | kW | 0 | 1 |
 | RELATIVE_IAQ_INDEX | Relative IAQ | Relative IAQ | 69 | 0x45 | - | 0 | 1 |
+| ACCEL_X_MEAS_TYPE	| Accelerazione X	| Acceleration X	| 70	| 0x46	| g |	0	| 1 |
+| ACCEL_Y_MEAS_TYPE	| Accelerazione Y	| Acceleration Y	| 71	| 0x47	| g |	0	| 1 |
+| ACCEL_Z_MEAS_TYPE	| Accelerazione Z	| Acceleration Z	| 72	| 0x48	| g |	0	| 1 |
 | INDEX  | Indice | Index | 200 | 0xC8 | - | 0 | 1 |
 | - | - | - | - | - | - | - | - |
 | CUSTOM_CH  | Test | Test | 252 | 0xFC | - | 0 | 1 |
